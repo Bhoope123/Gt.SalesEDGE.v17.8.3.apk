@@ -48,7 +48,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "4cbbd32845608e20",
+        "device_id": "874b750fd19d4c86",
         "key": "600042822",
         "expirydate": "23-07-2026",
         "Allowoffline": false
@@ -66,8 +66,8 @@
         "Allowoffline": false
     },
     {
-        "device_id": "874b750fd19d4c86",
-        "key": "600042822",
+        "device_id": "zzzzzzz",
+        "key": "xxxxxx",
         "expirydate": "22-07-2026",
         "Allowoffline": false
     },
