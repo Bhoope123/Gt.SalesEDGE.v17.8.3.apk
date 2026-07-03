@@ -54,21 +54,21 @@
         "Allowoffline": false
     },
     {
-        "device_id": "xxxxxxx",
-        "key": "zzzzzz",
-        "expirydate": "25-07-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "xxxxxxx",
-        "key": "xxxxxxxxx",
+        "device_id": "9f1d3091e4187571",
+        "key": "800054830",
         "expirydate": "23-07-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "xxxxxxxx",
-        "key": "xxxxxxx",
-        "expirydate": "22-07-2026",
+        "device_id": "a044ae4993ec2213",
+        "key": "800054833",
+        "expirydate": "23-07-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "9952a363cf16a0ac",
+        "key": "800035923",
+        "expirydate": "23-07-2026",
         "Allowoffline": false
     },
     {
