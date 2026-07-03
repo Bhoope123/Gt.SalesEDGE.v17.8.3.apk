@@ -6,20 +6,20 @@
         "Allowoffline": true
     },
     {
-        "device_id": "9f1d3091e4187571",
-        "key": "800054830",
+        "device_id": "xxxxxxxxc",
+        "key": "xxxxx",
         "expirydate": "23-07-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "a044ae4993ec2213",
-        "key": "800054833",
+        "device_id": "xxxxxxxxxxx",
+        "key": "xxxxxxx",
         "expirydate": "23-07-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "9952a363cf16a0ac",
-        "key": "800035923",
+        "device_id": "xxxxxxxxx",
+        "key": "xxxxxxxxx",
         "expirydate": "23-07-2026",
         "Allowoffline": false
     },
@@ -30,56 +30,56 @@
         "Allowoffline": false
     },
     {
-        "device_id": "b820d0638b2986d3",
-        "key": "800015198",
+        "device_id": "xxxxxxxxx",
+        "key": "xxxxxx",
         "expirydate": "23-07-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "8677c9039aeefbad",
-        "key": "800130444",
+        "device_id": "xxxxxxxx",
+        "key": "xxxxxxx",
         "expirydate": "23-07-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "21aac0d51fa430d6",
-        "key": "800085909",
+        "device_id": "xxxxxxxx",
+        "key": "xxxxxx",
         "expirydate": "23-07-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "874b750fd19d4c86",
-        "key": "600042822",
+        "device_id": "xxxxxxx",
+        "key": "xxxxxxxx",
         "expirydate": "23-07-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "3caf986280f9e0e4",
-        "key": "600034692",
+        "device_id": "xxxxxxx",
+        "key": "xxxxxxx",
         "expirydate": "23-07-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "35bd9d8bcc246d7d",
-        "key": "800129411",
+        "device_id": "xxxxxxx",
+        "key": "xxxxxxxxx",
         "expirydate": "23-07-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "c8d6228639139022",
-        "key": "800054851",
+        "device_id": "xxxxxxxx",
+        "key": "xxxxxxx",
         "expirydate": "22-07-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "53ca9177cd7e51a5",
-        "key": "800032082",
+        "device_id": "xxxxxxx",
+        "key": "xxxxxxxx",
         "expirydate": "25-07-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "c6f467156af57ff3",
-        "key": "600046368",
+        "device_id": "xxxxxxx",
+        "key": "xxxxxx",
         "expirydate": "25-07-2026",
         "Allowoffline": false
     },
